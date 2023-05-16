@@ -4,7 +4,9 @@
 
 ## Table of Contents
 * [Problem Statement](#Problem-Statement)
-* [Technologies Used](#technologies-used)
+* [Business Goal](#Business-Goal)
+* [Meta Information of the Variables](#Meta_Information_of_the_Variables)
+* [Technologies used](#Technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
